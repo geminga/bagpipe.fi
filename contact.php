@@ -54,7 +54,7 @@ $e_subject = 'Bagpipe.fi: You\'ve been contacted by ' . $name . '.';
 // You can change this if you feel that you need to.
 // Developers, you may wish to add more fields to the form, in which case you must be sure to add them here.
 
-$e_body = "You have been contacted by $name with regards to $subject, their additional message is as follows." . PHP_EOL . PHP_EOL;
+$e_body = "You have been contacted by $name via Bagpipe.fi-website, their additional message is as follows." . PHP_EOL . PHP_EOL;
 $e_content = "\"$comment\"" . PHP_EOL . PHP_EOL;
 $e_reply = "You can contact $name via email: $email";
 
