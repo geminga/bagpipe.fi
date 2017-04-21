@@ -1,0 +1,130 @@
+
+body {
+	background-color: white;
+	color: #242561;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px; 
+	margin: 0px;
+}
+
+img {	
+border: 0px none; 
+padding: 0 4px;
+}
+
+li { 
+font-size: 13px;
+padding-right: 2px;
+}
+
+a:link { text-decoration: none; color: #1F1939;  font-weight: bold; }
+a:visited { text-decoration: none; color: #1F1939;  font-weight: bold; }  
+a:hover { text-decoration: underline; color: #1F1939;  font-weight: bold; } 
+a:active { text-decoration: none; color: #1F1939;  font-weight: bold; }
+
+em {
+font-weight: bold;
+}
+div#content{
+	position: absolute;
+	width: 620px;
+	padding-right: 200px;
+}
+
+h1{
+margin:4px;
+padding-left: 5px;
+padding-top: 2px;
+font-size: 110%;
+font-weight: bolder;
+color: white;
+background-color: #F21217;
+}
+h2{
+padding-left: 1em;
+font-size: 100%;
+font-weight: bold;
+}
+h3{
+padding-left: 1em;
+font-size: 90%;
+font-weight: bold;
+}
+
+ div#news {
+background: white;
+	font-size: 10pt;
+              float:right; 
+z-index: 1;
+margin: 73px 6px 0px 8px;
+              bottom: 1px;
+              width: 180px;
+              border: 1px dotted black;
+              padding-left: 1px;
+              padding-bottom: 1em;
+   }
+
+p{
+padding-left: 2em;
+}
+   div#news p {
+   font-size: 90%;
+   padding-left: 2em;
+   padding-right: 1em;
+   padding-top: 0;
+   }
+div#news img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+div#news em{
+display: block;
+}
+.linkkitaulu {
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 154px;
+}
+
+.lippu {
+	text-align: center;
+	font-size: 9px;
+	font-weight: normal;
+	vertical-align: top; 
+}
+
+.txttaulu {
+	color: #242561;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px; 
+	margin-top: 30px;
+	margin-left: 15px;
+	margin-right: 175px;
+	padding-right: 175px;
+	margin-bottom: 20px; 
+	padding-bottom: 30px;
+}
+
+div#otsakesolu {
+	background-color: #242561;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+margin: 4px;
+padding:0 4px;
+}
+
+.keskitettysolu {
+	color: #242561;
+	font-family: Arial, Helvetica, sans-serif;
+	/* font-size: 12px; */
+	text-align: center;
+}
+.uutiset{
+	color: #242561;
+	font-family: Arial, Helvetica, sans-serif;
+	/* font-size: 12px; */
+	text-align: center;
+}

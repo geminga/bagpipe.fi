@@ -1,0 +1,5 @@
+AuthName "Orkesterilaiset"
+AuthType Basic
+AuthUserFile /www/b/a/www.bagpipe.fi/salikset
+
+require valid-user
